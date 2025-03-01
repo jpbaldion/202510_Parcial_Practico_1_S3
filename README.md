@@ -1,6 +1,6 @@
 # Parcial Práctico 1 - Sección 3
 
-## Instrucciones
+## Prerrequisitos
 
 1. Haga un _fork_ de este repositorio
 2. Clone el repositorio bifurcado en su máquina virtual
