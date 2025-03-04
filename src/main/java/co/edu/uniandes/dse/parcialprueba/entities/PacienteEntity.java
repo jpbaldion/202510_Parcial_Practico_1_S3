@@ -16,6 +16,4 @@ public class PacienteEntity extends BaseEntity {
     private Integer celular;
     private String correo;
 
-    @OneToMany(mappedBy = "paciente", cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<ConsultaMedicaEntity> consultas;
 }
