@@ -16,7 +16,5 @@ public class ConsultaMedicaEntity extends BaseEntity{
     
     @Temporal(TemporalType.TIMESTAMP)
     private Date fecha;
-
-    @ManyToOne
-    private PacienteEntity paciente;
+    
 }
